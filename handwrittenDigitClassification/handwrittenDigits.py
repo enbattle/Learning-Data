@@ -47,6 +47,8 @@ if __name__ == "__main__":
         if(foundOne and foundFive):
             break
 
+    input.close()
+
     # Plot the created handwritten digit 1
     plt.imshow(one, cmap="gray")
 

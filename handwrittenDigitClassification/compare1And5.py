@@ -96,6 +96,8 @@ if __name__ == "__main__":
         if (int(float(linelist[0])) == 1):
             intensityAndSymmetry(linelist, oneX, oneY)
 
+    input.close()
+
     # Plot the values as a scatterplot, with the x-axis being the average intensity, and the
     #   y-axis being the average symmetry value, and see the classification separation
     #   between the 1s and the 5s
