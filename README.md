@@ -5,3 +5,5 @@ Current Topics:
 - Perceptron Learning Algorithm
 - Handwritten Digit Classification
 - Data Regularization and Validation
+- Neural Network (NN from scratch)
+- Support Vector Machines (SVM from scratch)
